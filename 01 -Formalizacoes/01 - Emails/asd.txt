@@ -1,4 +1,8 @@
 asdhhhjjjjasd
 asdadskkll
 
+<<<<<<< HEAD
 asdasdasdasdasdadasdasdasdasdas
+=======
+TEste de conflito
+>>>>>>> d1fc93436f3acfa5eec84d56b23c3453fe769fa3
